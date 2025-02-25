@@ -142,7 +142,7 @@ h6 {
 	display: block;
 }
 .banner-text ul li a img {
-	width: 150px;
+	width: 300px;
 	border-radius: 7px;
 }
 .prelative {
@@ -481,7 +481,7 @@ input {
 	display: block;
 }
 .download ul li a img {
-	width: 150px;
+	width: 300px;
 	border-radius: 7px;
 }
 .footer-copy {
@@ -531,7 +531,7 @@ h3 {
 	margin: 25px 0px;
 }
 .banner-text ul li a img {
-	width: 140px;
+	width: 300px;
 	border-radius: 7px;
 }
 .sectioner-header {
@@ -595,7 +595,7 @@ h3 {
 	font-size: 12px;
 }
 .download ul li a img {
-	width: 120px;
+	width: 300px;
 }
 .footer-copy p {
 	font-size: 10px;
